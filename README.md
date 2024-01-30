@@ -1,4 +1,4 @@
-# Title: Library Management System - BSC Database Lab Project
+# Library Management System - BSC Database Lab Project
 
 # Description:
 
